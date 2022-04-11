@@ -1,0 +1,10 @@
+SUM
+1  2  3
+CC
+abc def ghi
+SUM
+41 52 63
+REVERSE
+abcd
+ORDER
+bd cb ac

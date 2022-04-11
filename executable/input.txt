@@ -1,0 +1,8 @@
+SUM
+1 2 3
+CC
+abc def ghi
+SUM
+40 50 60
+REVERSE
+abcd
